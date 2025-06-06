@@ -64,7 +64,6 @@ Uma API REST desenvolvida em FastAPI para gerenciar modelos de linguagem (LLM) s
 1. **Crie o arquivo `.env`** na raiz do projeto:
    ```env
    DATABASE_URL=mysql+pymysql://root:sua_senha@localhost:3306/llm_api?charset=utf8mb4
-   OPENAI_API_KEY=sua_chave_openai_aqui
    ```
 
 2. **Crie o banco de dados MySQL**:
