@@ -1,6 +1,6 @@
 # 🤖 LLM API - Sistema de Gerenciamento de Modelos
 
-Uma API REST desenvolvida em FastAPI para gerenciar e executar modelos de linguagem (LLM) seguindo o padrão arquitetural MVC.
+Uma API REST desenvolvida em FastAPI para gerenciar modelos de linguagem (LLM) seguindo o padrão arquitetural MVC.
 
 ## 📋 Índice
 
