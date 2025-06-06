@@ -223,11 +223,11 @@ llm-api/
 Os endpoints de listagem suportam paginação:
 
 ```bash
-GET /api/llm-models/?skip=0&limit=10
+GET /api/llm-models/?page=0&size=10
 ```
 
-- `skip`: Número de registros para pular (padrão: 0)
-- `limit`: Número máximo de registros (padrão: 100)
+- `page`: Número de registros para pular (padrão: 0)
+- `size`: Número máximo de registros (padrão: 100)
 
 ## 🐛 Solução de Problemas
 
